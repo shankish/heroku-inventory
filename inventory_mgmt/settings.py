@@ -25,7 +25,9 @@ SECRET_KEY = '#&t$3dq&r_e&)v_b&8#2tzx3=6@j7l$#1-(64t)os@-*#d&wqm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'sn1790-inventorymgmt.herokuapp.com'
+]
 
 
 # Application definition
